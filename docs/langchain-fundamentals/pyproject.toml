@@ -2,7 +2,6 @@
 name = "langchain-fundamentals"
 version = "0.1.0"
 description = "LangChain Fundamentals - Python Code Examples"
-authors = ["davoscode <jdhernandez@azzertai.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.10.0,<3.12"

@@ -15,9 +15,13 @@ cd building-with-llms-training-session-2
 # Optional if you want a virtual environment (no need to do this on Codespaces):
 python -m venv venv
 source venv/bin/activate
+```
 
-# Install the project requirements
+## Install Agentic Patterns Requirements
+```sh
+cd agentic-patterns
 pip install -r requirements.txt
+
 ```
 
 ## Workshop description
@@ -30,8 +34,7 @@ In this second session, we'll explore the fundamentals of the RAG Architecture, 
 
 Topics we will cover include:
 
-* RAG
-* Agents
+* [LangChain Fundamentals](docs/langchain-fundamentals/README.md)
 * [FastAPI for AI Applications](docs/fastapi-for-ai-applications//README.md)
 
 

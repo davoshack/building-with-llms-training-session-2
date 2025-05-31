@@ -1,0 +1,6 @@
+groq==0.20.0
+colorama==0.4.6
+types-colorama==0.4.15.20240311
+graphviz==0.20.3
+
+git+https://github.com/davoshack/ai-custom-utils.git
