@@ -36,6 +36,7 @@ Topics we will cover include:
 
 * [LangChain Fundamentals](docs/langchain-fundamentals/README.md)
 * [FastAPI for AI Applications](docs/fastapi-for-ai-applications//README.md)
+* [Agentic Patterns](docs/agentic-patterns/README.md)
 
 
 
