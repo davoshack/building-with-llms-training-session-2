@@ -46,9 +46,8 @@ In this second session, we'll explore the fundamentals of the RAG Architecture, 
 
 Topics we will cover include:
 
-* [LangChain Fundamentals](docs/langchain-fundamentals/README.md)
-* [Agentic Patterns](docs/agentic-patterns/README.md)
-* [FastAPI for AI Applications](docs/fastapi-for-ai-applications//README.md)
-
-
-
+* [LangChain fundamentals](docs/langchain-fundamentals/README.md)
+* [Agentic patterns](docs/agentic-patterns/README.md)
+* [FastAPI for AI applications](docs/fastapi-for-ai-applications//README.md)
+* [How to build AI projects](docs/how-to-build-and-deliver-ai-projects/building-ai-projects.md)
+* [How to deliver AI projects](docs/how-to-build-and-deliver-ai-projects/delivering-ai-projects.md)
