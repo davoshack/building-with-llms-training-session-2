@@ -30,19 +30,25 @@ cd fastapi-for-ai-applications
 pip install -r requirements.txt
 ```
 
+## Install LangChain Fundamentals Requirements
+```sh
+cd langchain-fundamentals
+pip install -r requirements.txt
+```
+
 ## Workshop description
 
 Large Language Models such as GPT-4o, Claude and Google Gemini provide APIs that can be used to develop features that were almost impossibly difficult to build in the past, spanning areas that include human language understanding, image recognition and structured data extraction.
 
 Building software that uses these APIs reliably and responsibly is a topic with a great deal of depth and a lot of hidden traps.
 
-In this second session, we'll explore the fundamentals of the RAG Architecture, Agent Patterns, and the MCP protocol. 
+In this second session, we'll explore the fundamentals of the RAG Architecture, Agent Patterns and Architectures for AI Applications
 
 Topics we will cover include:
 
 * [LangChain Fundamentals](docs/langchain-fundamentals/README.md)
-* [FastAPI for AI Applications](docs/fastapi-for-ai-applications//README.md)
 * [Agentic Patterns](docs/agentic-patterns/README.md)
+* [FastAPI for AI Applications](docs/fastapi-for-ai-applications//README.md)
 
 
 
