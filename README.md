@@ -24,6 +24,12 @@ pip install -r requirements.txt
 
 ```
 
+## Install FastAPI For AI Applications Requirements
+```sh
+cd fastapi-for-ai-applications
+pip install -r requirements.txt
+```
+
 ## Workshop description
 
 Large Language Models such as GPT-4o, Claude and Google Gemini provide APIs that can be used to develop features that were almost impossibly difficult to build in the past, spanning areas that include human language understanding, image recognition and structured data extraction.

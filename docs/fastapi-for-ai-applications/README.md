@@ -28,7 +28,7 @@ Beyond this README, [this tutorial](https://fastapi.tiangolo.com/tutorial/) show
 
 2. Install dependencies:
    ```bash
-   uv sync
+   pip install -r requirements.txt
    ```
 
 3. Run the application:
