@@ -49,5 +49,6 @@ Topics we will cover include:
 * [LangChain fundamentals](docs/langchain-fundamentals/README.md)
 * [Agentic patterns](docs/agentic-patterns/README.md)
 * [FastAPI for AI applications](docs/fastapi-for-ai-applications//README.md)
+* [Building Production-grade AI Systems](/docs/how-to-build-and-deliver-ai-projects/building-production-grade-ai-systems.md)
 * [How to build AI projects](docs/how-to-build-and-deliver-ai-projects/building-ai-projects.md)
 * [How to deliver AI projects](docs/how-to-build-and-deliver-ai-projects/delivering-ai-projects.md)
