@@ -11,8 +11,6 @@
     
 -   Take prompt engineering seriously
     
--   Data > AI (everyone has the same models)
-    
 
  #### Tools and Techniques
 
